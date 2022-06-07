@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-icons": "^4.4.0",
+    "sass": "^1.52.2",
+    "scrollreveal": "^4.0.9"
+  }
+}
